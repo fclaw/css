@@ -102,5 +102,7 @@ body {
   height: 50px;
   position: absolute;
   width: 50px;
+  background-color: #FFFFFF;
+  text-align: justify
 }
 
