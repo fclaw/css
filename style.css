@@ -85,3 +85,11 @@ body {
 .login-block button:hover {
     background: #ff7b81;
 }
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
