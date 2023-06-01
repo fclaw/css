@@ -309,5 +309,12 @@ body{
     box-shadow: none!important;
 }
 
+#inner1 {
+   float:left; 
+}
 
+#inner2{
+   float:left; 
+   clear: left;
+}
 
